@@ -1,2 +1,0 @@
-# Concepts
-Created with CodeSandbox
